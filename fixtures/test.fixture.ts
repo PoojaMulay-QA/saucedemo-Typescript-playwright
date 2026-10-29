@@ -2,7 +2,7 @@ import { test as base, expect, APIRequestContext } from '@playwright/test';
 
 import { LoginPage } from '../Pages/LoginPage';
 import { InventoryPage } from '../Pages/Inventorypage';
-import { CartPage } from '../Pages/cartpage';
+import { CartPage } from '../Pages/CartPage';
 import { CheckoutPage } from '../Pages/checkoutPage';
 
 
